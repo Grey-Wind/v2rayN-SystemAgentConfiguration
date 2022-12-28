@@ -30,6 +30,7 @@ www.githubs.cn
 github.91chi.fun
 octodex.github.com
 tool.mintimate.cn
+gitee.com
 ```
 
 ### 知乎
@@ -46,12 +47,17 @@ www.ixigua.com
 studio.ixigua.com
 ```
 
-### 阅读网站
+### 阅读与写作
 
 ```
 15shu.net
 quanxiaoshuo.com
 bbiquge.net
+www.yuewen.com
+write.qq.com
+www.qimao.com
+join.yuewen.com
+www.qidian.com
 ```
 
 ### 腾讯
@@ -70,6 +76,14 @@ pc.qq.com
 m.y.qq.com
 www.tencent.com
 meeting.tencent.com
+wx.qq.com
+zc.qq.com
+open.weixin.qq.com
+weixin.qq.com
+windows.weixin.qq.com
+pc.qq.com
+work.weixin.qq.com
+kf.qq.com
 ```
 
 ### 网易
@@ -93,40 +107,6 @@ play.163.com
 ```
 baike.baidu.com
 www.baidu.com
-```
-
-### 必应
-
-```
-cn.bing.com
-```
-<!-- 
-up.woozooo.com
-www.mcbbs.net
-gitee.com
-weibo.com
-nga.178.com
-kmar.top
-www.extfans.com
-www.yuewen.com
-write.qq.com
-www.qimao.com
-antso.cn
-join.yuewen.com
-www.qidian.com
-cps-check.com
-developer.lanzoug.com
-wx.qq.com
-zc.qq.com
-open.weixin.qq.com
-weixin.qq.com
-windows.weixin.qq.com
-pc.qq.com
-work.weixin.qq.com
-kf.qq.com
-cfpa.team
-ondoku3.com
-www.baidu.com
 wap.baidu.com
 pan.baidu.com
 www5.baidu.com
@@ -136,10 +116,59 @@ www8.baidu.com
 baidu.com
 fanyi.baidu.com
 photo.baidu.com
-wwa.lanzous.com
-ww1.lanzous.com
-dult.cn
+```
+
+### 必应
+
+```
+cn.bing.com
 bing.com
+```
+
+### Minecraft
+
+```
+www.mcbbs.net
+mc.163.com
+www.minecraft.net
+minecraft.fandom.com
+mcpe-planet.com
+www.mcmod.cn
+mcarc.gitee.io
+www.mcadmin.cn
+oss.minecraftxz.com
+www.minecraftzw.com
+zm.sm-tc.cn
+```
+
+### 蓝奏云
+
+```
+up.woozooo.com
+developer.lanzoug.com
+```
+
+### 杂项
+
+```
+www.onlinedown.net
+www.yundongfang.com
+news.4399.com
+www.18183.com
+www.clinicmed.net
+mutefun.tv
+dl.3dmgame.com
+```
+<!-- 
+weibo.com
+nga.178.com
+kmar.top
+www.extfans.com
+antso.cn
+cps-check.com
+cfpa.team
+ondoku3.com
+dult.cn
 blog.csdn.net
 runnoob.com
 www.cnblogs.com
