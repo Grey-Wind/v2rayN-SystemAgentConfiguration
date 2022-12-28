@@ -94,6 +94,12 @@ work.weixin.qq.com
 kf.qq.com
 ```
 
+### 微信小程序
+
+```
+file.banjixiaoguanjia.com
+```
+
 ### 网易
 
 ```
