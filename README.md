@@ -68,8 +68,13 @@ new.qq.com
 im.qq.com
 pc.qq.com
 m.y.qq.com
+www.tencent.com
+meeting.tencent.com
 ```
-<!-- cn.bing.com
+
+### 网易
+
+```
 www.163.com
 email.163.com
 news.163.com
@@ -78,12 +83,24 @@ sports.163.com
 money.163.com
 music.163.com
 game.163.com
+mail.163.com
+cg.163.com
+play.163.com
+```
+
+### 百度
+
+```
 baike.baidu.com
 www.baidu.com
-mail.163.comcg.163.com
-play.163.com
-www.tencent.com
-meeting.tencent.com
+```
+
+### 必应
+
+```
+cn.bing.com
+```
+<!-- 
 up.woozooo.com
 www.mcbbs.net
 gitee.com
@@ -125,4 +142,5 @@ dult.cn
 bing.com
 blog.csdn.net
 runnoob.com
-www.cnblogs.com -->
+www.cnblogs.com
+-->
