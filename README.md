@@ -33,6 +33,14 @@ tool.mintimate.cn
 gitee.com
 ```
 
+### 知识/代码类
+
+```
+blog.csdn.net
+runnoob.com
+www.cnblogs.com
+```
+
 ### 知乎
 
 ```
@@ -148,6 +156,16 @@ up.woozooo.com
 developer.lanzoug.com
 ```
 
+### 微博
+
+```
+weibo.com
+m.weibo.cn
+www.weibo.com
+vip.weibo.com
+verified.weibo.com
+```
+
 ### 杂项
 
 ```
@@ -158,18 +176,14 @@ www.18183.com
 www.clinicmed.net
 mutefun.tv
 dl.3dmgame.com
+ondoku3.com
+cps-check.com
 ```
 <!-- 
-weibo.com
 nga.178.com
 kmar.top
 www.extfans.com
 antso.cn
-cps-check.com
 cfpa.team
-ondoku3.com
 dult.cn
-blog.csdn.net
-runnoob.com
-www.cnblogs.com
 -->
