@@ -166,6 +166,13 @@ vip.weibo.com
 verified.weibo.com
 ```
 
+### 易语言
+
+```
+www.eyuyan.com
+eyuyan.com
+```
+
 ### 杂项
 
 ```
@@ -178,6 +185,8 @@ mutefun.tv
 dl.3dmgame.com
 ondoku3.com
 cps-check.com
+www.pcsoft.com.cn
+www.jb51.net
 ```
 <!-- 
 nga.178.com
