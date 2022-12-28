@@ -10,7 +10,6 @@ v2rayN的系统代理设置白名单
 www.bilibili.com
 space.bilibili.com
 member.bilibili.com
-www.bilibili.tv
 ```
 
 ### Github官方
